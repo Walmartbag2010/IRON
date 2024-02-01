@@ -1,10 +1,3 @@
-body 
-{
-  margin: 0;
-  padding: 0;
-  background-color: #000caf; 
-}
-
 <div style="text-align:center;">
     <span style="color: #000caf; font-size: 300px;">HELLO.</span>
 </div>
