@@ -1,4 +1,4 @@
- `theme: jekyll-theme-THEME-NAME`
+ theme: jekyll-theme-modernist
 <div style="text-align:center;">
     <span style="color: #000caf; font-size: 35px;">HELLO.</span>
 </div>
